@@ -3,7 +3,7 @@
 </div>
 
 <div id="banner" align="center">
-  <a href="www.linkedin.com/in/mevans0911">
+  <a href="https://www.linkedin.com/in/mevans0911/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
@@ -27,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :sun_behind_small_cloud: In my free time, I will be spending time outside with my family.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mevans0911)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mevans0911/)
 
 
 ---
