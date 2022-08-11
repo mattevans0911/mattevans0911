@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Carolina.
+I am a Full Stack Developer from South Carolina.
 
 - :desktop_computer: I’m currently a Full Stack Software Engineering student.
 
