@@ -21,9 +21,9 @@
 
 ### :man_technologist: About Me :
 
-My name is Matt Evans and I am a Full Stack Developer from South Carolina.
+My name is Matt Evans and I am a Full Stack Web Developer from South Carolina.
 
-- :desktop_computer: I’m currently a Full Stack Software Engineering student.
+- :desktop_computer: I’m currently a Full Stack Web Developer for CF Evans Construction here in South Carolina.
 
 - :sun_behind_small_cloud: In my free time, I will be spending time outside with my family.
 
