@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 
-My name is Matt Evans and I am a Full Stack Web Developer from South Carolina.
+My name is Matt Evans and I am a Full Stack Web Developer from Pennsylvania.
 
 - :desktop_computer: I am passionate about all things tech!
 
