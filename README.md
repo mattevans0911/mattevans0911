@@ -48,4 +48,3 @@ My name is Matt Evans and I am a Full Stack Web Developer from Pennsylvania.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattevans0911&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattevans0911&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
